@@ -1,4 +1,4 @@
-# ccsDSCAppdev
+# APOD IN AN APP
 Made for the DSC CCS 2020 Round 2 App Dev Domain
  - By Sahil Saleem
  - Fully Native
