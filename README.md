@@ -1,4 +1,4 @@
-# APOD IN AN APP
+# APOD in an app
 Made for the DSC CCS 2020 Round 2 App Dev Domain
  - By Sahil Saleem
  - Fully Native
